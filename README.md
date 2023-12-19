@@ -21,8 +21,4 @@ This is a simple web-based Tic Tac Toe game implemented using HTML, CSS, and Jav
 - `styles.css`: CSS file for styling the game elements.
 - `script.js`: JavaScript file for game logic.
 
-## How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone <https://github.com/jabiraljabri/XO.git>
