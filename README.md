@@ -25,4 +25,4 @@ This is a simple web-based Tic Tac Toe game implemented using HTML, CSS, and Jav
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/jabiraljabri/XO.git)>
